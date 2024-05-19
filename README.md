@@ -70,3 +70,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medamine-bahassou&" alt="medamine-bahassou" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=medamine-bahassou&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
