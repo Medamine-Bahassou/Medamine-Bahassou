@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Bahassou</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
