@@ -66,14 +66,14 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="tailwindcss" width="40" height="40"/>
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src=" https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react.dev" width="40" height="40"/>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=p57acgidi9bj&format=png&color=000000" alt="react" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="expressjs.com" width="40" height="40"/>
   </a>
    <a href="https://nodejs.org/fr" target="_blank" rel="noreferrer">
-    <img src=" https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs.org" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs.org" width="40" height="40"/>
   </a>
 </p>
 
