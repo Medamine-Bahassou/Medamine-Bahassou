@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 ![](https://github-profile-trophy.vercel.app/?username=Medamine-Bahassou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
