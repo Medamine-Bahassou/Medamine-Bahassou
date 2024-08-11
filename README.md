@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+![](https://github-profile-trophy.vercel.app/?username=Medamine-Bahassou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -81,15 +82,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medamine-bahassou&show_icons=true&locale=en&layout=compact" alt="medamine-bahassou" />
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" height="300">
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Medamine-Bahassou&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medamine-bahassou&" alt="medamine-bahassou" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=medamine-bahassou&style=flat-square&color=blue" alt="Profile Views"/>
+  [![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
 </p>
