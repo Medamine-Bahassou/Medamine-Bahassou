@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amine Bahassou</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h1>Hi 👋, I'm Mohamed Amine Bahassou</h1>
+<h3>Software Engineering Student</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-![](https://github-profile-trophy.vercel.app/?username=Medamine-Bahassou&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
