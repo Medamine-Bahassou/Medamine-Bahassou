@@ -88,6 +88,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
+
