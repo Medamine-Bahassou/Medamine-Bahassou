@@ -9,8 +9,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git" />
+    </a>
+  </p>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
