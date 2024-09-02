@@ -1,6 +1,6 @@
 
-<div style="display: flex; justify-content: center; justify-items: center; width: 100%;">
-  <img  src="https://github.com/user-attachments/assets/02ccd80d-4208-4dc3-a487-edb1ef1e3b10"/>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://github.com/user-attachments/assets/02ccd80d-4208-4dc3-a487-edb1ef1e3b10" />
 </div>
 
 <h1>Hi 👋, I'm Mohamed Amine Bahassou</h1>
