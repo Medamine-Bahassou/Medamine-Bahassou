@@ -9,7 +9,8 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&center=true&repeat=false&width=435&lines=Contacts" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Contacts" alt="Typing SVG" /></a>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
@@ -18,7 +19,8 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&center=true&repeat=false&width=435&lines=Skills" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Skills" alt="Typing SVG" /></a>
+
 
 <p align="left">
   
