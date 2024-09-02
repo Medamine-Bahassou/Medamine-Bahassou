@@ -7,9 +7,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
 </p>
+
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://github.com/user-attachments/assets/abf71f97-1e4e-456b-acfa-cf4ed48f4a80" alt="LinkedIn"/>
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
