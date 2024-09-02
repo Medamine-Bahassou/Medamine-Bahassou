@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/02ccd80d-4208-4dc3-a487-edb1ef1e3b10" />
 </p>
 
+<br/>
+
 <h1>Hi 👋, I'm Mohamed Amine Bahassou</h1>
 <h3>Software Engineering Student</h3>
 
@@ -84,14 +86,18 @@
   </a>
 </p>
 
-
+<p align="center">
   ![](https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Medamine-Bahassou&theme=blue-green&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
-  ![spherewave](https://github.com/user-attachments/assets/8b18e091-961c-41ec-b399-f41465abb337)
 
+<br/>
+
+<p align="center">
+  ![spherewave](https://github.com/user-attachments/assets/8b18e091-961c-41ec-b399-f41465abb337)
+</p>
 
