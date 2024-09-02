@@ -5,11 +5,11 @@
 
 <br/>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Contacts" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Contacts" alt="Typing SVG" /></a>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
@@ -18,7 +18,7 @@
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Skills" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&repeat=false&width=435&lines=Skills" alt="Typing SVG" /></a>
 
 
 <p align="left">
