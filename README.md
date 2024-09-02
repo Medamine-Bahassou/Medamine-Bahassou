@@ -93,12 +93,10 @@
 </div>
 
 
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1" alt="Visit Count"/>
+  </a>
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<br/>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8b18e091-961c-41ec-b399-f41465abb337" alt="spherewave">
-</p>
 
