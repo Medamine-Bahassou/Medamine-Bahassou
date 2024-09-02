@@ -86,11 +86,12 @@
   </a>
 </p>
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Medamine-Bahassou&theme=blue-green&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamine-Bahassou&theme=blue-green&hide_border=false" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
@@ -98,6 +99,6 @@
 <br/>
 
 <p align="center">
-  ![spherewave](https://github.com/user-attachments/assets/8b18e091-961c-41ec-b399-f41465abb337)
+  <img src="https://github.com/user-attachments/assets/8b18e091-961c-41ec-b399-f41465abb337" alt="spherewave">
 </p>
 
