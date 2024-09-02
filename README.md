@@ -9,13 +9,17 @@
 </p>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&center=true&repeat=false&width=435&lines=Contacts" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
     <img src="https://github.com/user-attachments/assets/abf71f97-1e4e-456b-acfa-cf4ed48f4a80" alt="LinkedIn" width="50"/>
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&duration=4995&pause=1000&color=4B5C6E&center=true&repeat=false&width=435&lines=Skills" alt="Typing SVG" /></a>
+
 <p align="left">
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
