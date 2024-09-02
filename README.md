@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/abf71f97-1e4e-456b-acfa-cf4ed48f4a80" alt="LinkedIn" width="20"/>
+    <img src="https://github.com/user-attachments/assets/abf71f97-1e4e-456b-acfa-cf4ed48f4a80" alt="LinkedIn" width="50"/>
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
