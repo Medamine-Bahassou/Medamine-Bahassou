@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=50&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=38&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
 
 
 <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
