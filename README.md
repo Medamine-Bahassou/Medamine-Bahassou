@@ -1,7 +1,7 @@
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/02ccd80d-4208-4dc3-a487-edb1ef1e3b10" />
-</div>
+</p>
 
 <h1>Hi 👋, I'm Mohamed Amine Bahassou</h1>
 <h3>Software Engineering Student</h3>
