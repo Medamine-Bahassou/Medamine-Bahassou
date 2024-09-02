@@ -5,8 +5,7 @@
 
 <br/>
 
-<h1>Hi 👋, I'm Mohamed Amine Bahassou</h1>
-<h3>Software and ai Engineering Student</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&size=25&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
