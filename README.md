@@ -8,6 +8,10 @@
   <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
 </p>
 
+## Hello world !
+I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interests in Full Stack Developement & Mobile Developement.
+
+[Portfolio](https://mohamedaminebahassou.onrender.com/)
 
 ## Contacts
 <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
