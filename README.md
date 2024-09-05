@@ -8,18 +8,18 @@
   <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
 </p>
 
-## Hello world !
+## ✋ Hello world !
 I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interests in Full Stack Developement & Mobile Developement.
 
 [Portfolio](https://mohamedaminebahassou.onrender.com/)
 
-## Contacts
+## 📇 Contacts
 <a href="https://www.linkedin.com/in/mohamed-amine-bahassou/" target="_blank">
   <img src="https://github.com/user-attachments/assets/abf71f97-1e4e-456b-acfa-cf4ed48f4a80" alt="LinkedIn" width="50"/>
 </a>
 
 
-## Skills 
+## 💻 Skills 
 <p align="left">
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 </p>
 
 
-## Stats
+## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
 <br/>
