@@ -89,13 +89,11 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamine-Bahassou&theme=blue-green&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
 
+## Liked my work?
+<img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
+<br/>
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1" alt="Visit Count"/>
