@@ -100,7 +100,6 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 
 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1" alt="Visit Count"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjose&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com" alt="Visit Count"/>
   </a>
-
 
