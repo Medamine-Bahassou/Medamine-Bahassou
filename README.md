@@ -99,7 +99,4 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 <img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjose&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com" alt="Visit Count"/>
-  </a>
 
