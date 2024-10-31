@@ -98,5 +98,4 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Medamine-Bahassou&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
-
-
+<a style="user-select: none;"  ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMedamine-Bahassou%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/></a>
