@@ -45,6 +45,6 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 
 <div style="display: flex;">
   <img src="https://leetcard.jacoblin.cool/medamine-bahassou?border=0&radius=20" />
-  <img src="https://github-readme-stats.vercel.app/api?username=medamine-bahassou&show_icons=true&theme=dark&border_radius=20&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medamine-bahassou&show_icons=true&theme=dark&border_radius=20&hide_border=true&card_width=500px" />
 </div>
 
