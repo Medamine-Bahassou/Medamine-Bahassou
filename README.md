@@ -1,8 +1,8 @@
 
 
-<p align="center" style="width:100%">
-  <img src="https://github.com/user-attachments/assets/cbb0b04d-e70d-42bc-8b21-f23527cf11cb"/>
-</p>
+<div align="center" style="width:100%; border-radius: 20px;">
+  <img style="border-radius: 20px; overflow: hidden;" src="https://github.com/user-attachments/assets/cbb0b04d-e70d-42bc-8b21-f23527cf11cb"/>
+</div>
 
 <br/>
 <p align="center">
