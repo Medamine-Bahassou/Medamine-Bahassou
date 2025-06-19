@@ -20,6 +20,7 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **LinkedIn :** https://www.linkedin.com/in/mohamed-amine-bahassou
 * **LeetCode :** https://leetcode.com/u/medamine-bahassou/
 * **Portfolio :** https://medamine-bahassou.github.io/
+* **Email :** contact.bahassou@gmail.com
 
 
 ## 💻 Skills 
@@ -35,6 +36,7 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **Development Environments:** Visual Studio, Visual Studio Code, IntelliJ IDEA, Android Studio, Qt Creator (C++)
 * **Office & OS:** Microsoft Office, Windows/Unix systems
 * **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel
+* **AI:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning
 
 
 
