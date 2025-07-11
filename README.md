@@ -38,34 +38,6 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel
 * **AI:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning
 
-## 💻 PC
-
-<img src="https://github.com/user-attachments/assets/d27a4532-43ec-4fc0-b760-6ef80cd8c18a" align="right" width="250"/>
-
-```Erlang
-                                         Medamine-Bahassou@archlinux
-                                         -------------
-                  .o+`
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: ThinkPad L470 
-               `+oooooo:                 Kernel: 6.15.5-arch1-1
-               -+oooooo+                 Uptime: ∞ hours, ∞ mins
-             `/:-:++oooo+                Packages: ∞ (pacman)
-            `/++++/+++++++:              Shell: zsh 5.9
-           `/++++++++++++++:             Resolution: 1366x768
-          `/+++ooooooooooooo/`           DE: Plasma 6.4.2
-         ./ooosssso++osssssso+`          WM: kwin
-        .oossssso-````/ossssss+`         Icons: breeze-dark [GTK2/3]
-       -osssssso.      :ssssssso.        Terminal: konsole
-      :osssssss/        osssso+++.       CPU: Intel i5-6300U (4) @ 3.000GHz
-     /ossssssss/        +ssssooo/-       GPU: Intel Skylake GT2 [HD Graphics 520]
-   `/ossssso+/:-        -:/+osssso+-     Memory: 3321MiB / 7800MiB
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-
-```
-
 ## 📊 Stats
  
 
