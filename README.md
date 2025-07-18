@@ -28,15 +28,15 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **Programming Languages:** JavaScript, PHP, Java, C, C++, C#, Python, TypeScript
 * **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 * **Modeling:** UML, Merise
-* **Backend Frameworks:** Laravel, Symfony, Node.js, Express.js, Spring Boot
-* **Frontend Frameworks:** React.js, Next.js, Angular
+* **Backend Frameworks:** Laravel, Symfony, Node.js, Express.js, Spring Boot, ASP.NET, Flask, FastAPI
+* **Frontend Frameworks:** React.js, Next.js, Angular, Streamlit
 * **CSS Frameworks:** Bootstrap, Tailwind CSS
 * **Mobile Development:** Android (Java/XML)
 * **Game Development:** Unity Game Engine
 * **Development Environments:** Visual Studio, Visual Studio Code, IntelliJ IDEA, Android Studio, Qt Creator (C++)
-* **Office & OS:** Microsoft Office, Windows/Unix systems
-* **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel
-* **AI:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning
+* **Office & OS:** Microsoft Office, Windows/Linux
+* **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel, railway
+* **Other:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning
 
 ## 📊 Stats
  
