@@ -34,7 +34,7 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **Mobile Development:** Android (Java/XML)
 * **Game Development:** Unity Game Engine
 * **Development Environments:** Visual Studio, Visual Studio Code, IntelliJ IDEA, Android Studio, Qt Creator (C++)
-* **Office & OS:** Microsoft Office, Windows/Linux
+* **Office & OS:** Microsoft Office, Linux (my os), Windows
 * **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel, railway
 * **Other:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning, RAG, Chroma DB, Langchain, Openai api
 * **Languages:** Arabic, English, French
