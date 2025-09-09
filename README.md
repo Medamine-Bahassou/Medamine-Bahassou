@@ -29,14 +29,16 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
 * **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
 * **Modeling:** UML, Merise
 * **Backend Frameworks:** Laravel, Symfony, Node.js, Express.js, Spring Boot, ASP.NET, Flask, FastAPI
-* **Frontend Frameworks:** React.js, Next.js, Angular, Streamlit
-* **CSS Frameworks:** Bootstrap, Tailwind CSS
+* **Frontend Frameworks:** React.js, Next.js, Angular, Streamlit, Gradio
+* **CSS Frameworks:** Bootstrap, Tailwind CSS, Daisy ui, Shadcn ui 
 * **Mobile Development:** Android (Java/XML)
 * **Game Development:** Unity Game Engine
 * **Development Environments:** Visual Studio, Visual Studio Code, IntelliJ IDEA, Android Studio, Qt Creator (C++)
 * **Office & OS:** Microsoft Office, Windows/Linux
 * **DevOps & Deployment:** Git/GitHub, Docker, Render, Vercel, railway
-* **Other:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning
+* **Other:** LLMs, LLAMA.cpp, Machine Learning, Deep Learning, RAG, Chroma DB, Langchain, Openai api
+* **Languages:** Arabic, English, French
+
 
 ## 📊 Stats
  
@@ -47,4 +49,8 @@ I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interest
   <img src="https://leetcard.jacoblin.cool/medamine-bahassou?border=0&radius=20" />
   <img src="https://github-readme-stats.vercel.app/api?username=medamine-bahassou&show_icons=true&theme=dark&border_radius=20&hide_border=true&card_width=500px&rank_icon=github" />
 </div>
+
+<br/>
+
+> I use arch btw
 
