@@ -12,7 +12,7 @@
 ## ✋ Hello world !
 I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interests in Full Stack Developement & Mobile Developement.
 
-[Portfolio](https://mohamedaminebahassou.onrender.com/)
+[Portfolio](https://medamine-bahassou.github.io/)
 
 ## 📇 Contacts
  
