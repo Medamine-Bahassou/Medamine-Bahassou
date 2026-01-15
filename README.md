@@ -6,11 +6,11 @@
 
 <br/>
 <p align="center">
-  <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+%26+AI+Engineering+student" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+Engineering+student" alt="Typing SVG" /></a>
 </p>
 
 ## ✋ Hello world !
-I'm Mohamed Amine BAHASSOU, a Software and ai Engineering student, with interests in Full Stack Developement & Mobile Developement.
+I'm Mohamed Amine BAHASSOU, a Software Engineering student, with interests in Full Stack Developement & Mobile Developement.
 
 [Portfolio](https://medamine-bahassou.github.io/)
 
