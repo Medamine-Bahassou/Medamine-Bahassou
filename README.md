@@ -6,7 +6,7 @@
 
 <br/>
 <p align="center">
-  <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=6E6E6E&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+Engineering+student" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=33&pause=1000&color=00ccff&center=true&width=435&lines=Mohamed+Amine+BAHASSOU;Software+Engineering+student" alt="Typing SVG" /></a>
 </p>
 
 ## ✋ Hello world !
